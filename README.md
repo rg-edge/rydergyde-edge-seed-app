@@ -1,0 +1,1 @@
+# rydergyde-edge-seed-app
