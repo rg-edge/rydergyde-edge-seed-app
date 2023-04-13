@@ -1,0 +1,24 @@
+{
+  "extends": "tsconfig/nextjs.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "components/*": ["components/*"],
+      "helpers/*": ["helpers/*"],
+      "hooks/*": ["hooks/*"],
+      "services/*": ["services/*"],
+      "constants/*": ["constants/*"],
+      "layouts/*": ["layouts/*"],
+      "providers/*": ["providers/*"],
+
+      // Necessary to be able to resolve routes in compilation time without require to build the package
+      "@components/*": ["../../packages/ui/components/*"],
+      "@media/*": ["../../packages/ui/media/*"],
+      "@hooks/*": ["../../packages/ui/hooks/*"],
+      "@styles/*": ["../../packages/ui/styles/*"]
+    }
+  },
+  "include": ["**/*.js", "**/*.jsx"],
+  "exclude": ["node_modules"]
+}
