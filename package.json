@@ -9,6 +9,7 @@
     "lint:fix": "eslint . --ext .js,.jsx --fix"
   },
   "dependencies": {
+    "@ryder/ui": "*",
     "next": "12.2.2",
     "next-i18next": "^11.3.0",
     "react": "18.2.0",
@@ -16,7 +17,9 @@
   },
   "devDependencies": {
     "@svgr/webpack": "^6.3.1",
-    "eslint": "8.19.0"
+    "eslint": "8.19.0",
+    "eslint-config-custom": "*",
+    "tsconfig": "*"
   },
   "packageManager": "yarn@3.4.1"
 }
