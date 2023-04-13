@@ -1,0 +1,53 @@
+{
+  "DEFAULT_ERROR": {
+    "title": "Oops..algo está mal!",
+    "heading": "Oops..algo está mal!",
+    "message": "Por favor, refresque la página e inténtelo nuevamente."
+  },
+  "INTERNAL_ERROR": {
+    "title": "Error 500 - Error Interno",
+    "heading": "Error Interno",
+    "message": "Ha ocurrido un error de servidor, por favor pruebe nuevamente en unos minutos"
+  },
+  "NOT_FOUND": {
+    "title": "Error 404 - Pagina no Encontrada",
+    "heading": "Pagina no Encontrada",
+    "message": "La pagina solicitada no ha sido encontrada"
+  },
+  "SERVICE_UNAVAILABLE": {
+    "title": "Servicio no disponible",
+    "heading": "Su caso roadside está en progreso",
+    "message": ""
+  },
+
+  "NOT_ACCEPTABLE": {
+    "title": "Error no aceptable",
+    "heading": "Error no aceptable",
+    "message": ""
+  },
+  "BAD_REQUEST": {
+    "title": "Error de solicitud incorrecta",
+    "heading": "Error de solicitud incorrecta",
+    "message": ""
+  },
+  "ERROR_OCCURRED": {
+    "title": "Se produjeron algunos errores durante el procesamiento",
+    "heading": "Se produjeron algunos errores durante el procesamiento",
+    "message": ""
+  },
+  "UNAUTHORIZED": {
+    "title": "Error, no autorizado",
+    "heading": "Error, no autorizado",
+    "message": ""
+  },
+  "METHOD_NOT_ALLOWED": {
+    "title": "Método no permitido",
+    "heading": "Método no permitido",
+    "message": ""
+  },
+  "INVALID_QUERY_FILTER_OPERATOR": {
+    "title": "Página no encontrada",
+    "heading": "Página no encontrada",
+    "message": ""
+  }
+}

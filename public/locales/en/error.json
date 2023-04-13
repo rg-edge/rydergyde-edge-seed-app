@@ -1,0 +1,52 @@
+{
+  "DEFAULT_ERROR": {
+    "title": "Oops..something went wrong!",
+    "heading": "Oops..something went wrong!",
+    "message": "Please refresh this page and try again."
+  },
+  "INTERNAL_ERROR": {
+    "title": "Error 500 - Internal Error",
+    "heading": "Internal Error",
+    "message": "There was an internal error, please try again."
+  },
+  "NOT_FOUND": {
+    "title": "Error 404 - Page Not Found",
+    "heading": "Page Not Found",
+    "message": "The page you were looking for could not be found."
+  },
+  "SERVICE_UNAVAILABLE": {
+    "title": "Service Unavailable",
+    "heading": "Your roadside case is in progress",
+    "message": ""
+  },
+  "NOT_ACCEPTABLE": {
+    "title": "Not acceptable error",
+    "heading": "Not acceptable error",
+    "message": ""
+  },
+  "BAD_REQUEST": {
+    "title": "Bad request error",
+    "heading": "Bad request error",
+    "message": ""
+  },
+  "ERROR_OCCURRED": {
+    "title": "Some errors occurred while processing",
+    "heading": "Some errors occurred while processing",
+    "message": ""
+  },
+  "UNAUTHORIZED": {
+    "title": "Unauthorized error",
+    "heading": "Unauthorized error",
+    "message": ""
+  },
+  "METHOD_NOT_ALLOWED": {
+    "title": "Method not allowed",
+    "heading": "Method not allowed",
+    "message": ""
+  },
+  "INVALID_QUERY_FILTER_OPERATOR": {
+    "title": "Page not found",
+    "heading": "Page not found",
+    "message": ""
+  }
+}

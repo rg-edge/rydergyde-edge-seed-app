@@ -1,0 +1,52 @@
+{
+  "DEFAULT_ERROR": {
+    "title": "Oups... quelque chose s'est mal passé !",
+    "heading": "Oups... quelque chose s'est mal passé !",
+    "message": "Veuillez actualiser cette page et réessayer."
+  },
+  "INTERNAL_ERROR": {
+    "title": "Erreur 500 - Erreur interne",
+    "heading": "Erreur interne",
+    "message": "Une erreur interne s'est produite, veuillez réessayer."
+  },
+  "NOT_FOUND": {
+    "title": "Page non trouvée",
+    "heading": "Page non trouvée",
+    "message": "La page que vous recherchez est introuvable."
+  },
+  "SERVICE_UNAVAILABLE": {
+    "title": "Service indisponible",
+    "heading": "Votre dossier routier est en cours",
+    "message": ""
+  },
+  "NOT_ACCEPTABLE": {
+    "title": "Erreur inacceptable",
+    "heading": "Erreur inacceptable",
+    "message": ""
+  },
+  "BAD_REQUEST": {
+    "title": "Mauvaise erreur de requête",
+    "heading": "Mauvaise erreur de requête",
+    "message": ""
+  },
+  "ERROR_OCCURRED": {
+    "title": "Certaines erreurs se sont produites lors du traitement",
+    "heading": "Certaines erreurs se sont produites lors du traitement",
+    "message": ""
+  },
+  "UNAUTHORIZED": {
+    "title": "Erreur non autorisée",
+    "heading": "Erreur non autorisée",
+    "message": ""
+  },
+  "METHOD_NOT_ALLOWED": {
+    "title": "Méthode non autorisée",
+    "heading": "Méthode non autorisée",
+    "message": ""
+  },
+  "INVALID_QUERY_FILTER_OPERATOR": {
+    "title": "Page non trouvée",
+    "heading": "Page non trouvée",
+    "message": ""
+  }
+}
